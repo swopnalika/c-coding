@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int Main()
+int main()
 {
 int a[100];
 int n, i, j, temp;
