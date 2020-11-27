@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int Main1()
+int main()
 {
     //Initializing variables.
     char str[100];
